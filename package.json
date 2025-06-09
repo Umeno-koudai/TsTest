@@ -1,0 +1,21 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umeno-koudai/TsTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umeno-koudai/TsTest/issues"
+  },
+  "homepage": "https://github.com/Umeno-koudai/TsTest#readme"
+}
